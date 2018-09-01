@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c0838190b868524ca97c47cf8997692
+timeCreated: 1517525386
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exam: {fileID: 11400000, guid: 6784b4e009132884f869abffbb2bb596, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
